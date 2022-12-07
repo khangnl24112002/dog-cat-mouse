@@ -1,1 +1,1 @@
-var Cat = require('./Cat');
+var cat = require('./Cat');
